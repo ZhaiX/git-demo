@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("hello git2");
         System.out.println("host-fix test");
         System.out.println("master commit2");
+        System.out.println("host-fix commit2");
     }
 }
